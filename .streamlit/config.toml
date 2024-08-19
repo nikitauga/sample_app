@@ -1,0 +1,7 @@
+[theme]
+primaryColor = "#3fb0e8"          # Primary color for buttons, checkboxes, etc.
+backgroundColor = "#192841"       # Background color of the app.
+secondaryBackgroundColor = "#3fb0e8"  # Background color for sidebar and secondary sections.
+textColor = "#f9f9f9"             # Text color throughout the app.
+font = "sans serif"               # Font style (can also be "serif", "monospace", etc.)
+
